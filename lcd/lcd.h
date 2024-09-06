@@ -23,7 +23,7 @@
 #ifndef _lcd_h
 #define _lcd_h
 
-#include <circle/types.h>
+#include <types.h>
 
 #include "images.h"
 
