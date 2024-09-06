@@ -23,10 +23,10 @@
 #ifndef _hd44780_h
 #define _hd44780_h
 
-#include <circle/gpiopin.h>
-#include <circle/i2cmaster.h>
-#include <circle/sched/scheduler.h>
-#include <circle/types.h>
+#include <gpiopin.h>
+#include <i2cmaster.h>
+#include <sched/scheduler.h>
+#include <types.h>
 
 #include "synth/mt32synth.h"
 
