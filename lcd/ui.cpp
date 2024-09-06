@@ -20,8 +20,8 @@
 // mt32-pi. If not, see <http://www.gnu.org/licenses/>.
 //
 
-#include <circle/timer.h>
-#include <circle/util.h>
+#include <timer.h>
+#include <util.h>
 
 #include <cstdio>
 
