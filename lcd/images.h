@@ -23,7 +23,7 @@
 #ifndef _images_h
 #define _images_h
 
-#include <circle/types.h>
+#include <types.h>
 
 enum class TImage
 {
