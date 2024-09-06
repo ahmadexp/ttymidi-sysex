@@ -23,7 +23,7 @@
 #ifndef _barchars_h
 #define _barchars_h
 
-#include <circle/types.h>
+#include <types.h>
 
 // Custom characters for drawing bar graphs
 // Empty block character already exists in the character set (ASCII space, 0x20)
