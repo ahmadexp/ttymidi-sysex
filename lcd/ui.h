@@ -23,7 +23,7 @@
 #ifndef _ui_h
 #define _ui_h
 
-#include <circle/types.h>
+#include <types.h>
 
 #include "lcd/barchars.h"
 #include "lcd/lcd.h"
