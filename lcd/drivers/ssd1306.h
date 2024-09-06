@@ -23,8 +23,8 @@
 #ifndef _ssd1306_h
 #define _ssd1306_h
 
-#include <circle/i2cmaster.h>
-#include <circle/types.h>
+#include <i2cmaster.h>
+#include <types.h>
 
 #include "lcd/lcd.h"
 #include "synth/mt32synth.h"
