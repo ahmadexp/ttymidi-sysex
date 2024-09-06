@@ -23,7 +23,7 @@
 #ifndef _sysex_h
 #define _sysex_h
 
-#include <circle/types.h>
+#include <types.h>
 
 enum TManufacturerID : u8
 {
