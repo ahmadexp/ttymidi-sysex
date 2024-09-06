@@ -23,8 +23,8 @@
 #ifndef _synthbase_h
 #define _synthbase_h
 
-#include <circle/spinlock.h>
-#include <circle/types.h>
+#include <spinlock.h>
+#include <types.h>
 
 #include "lcd/lcd.h"
 #include "lcd/ui.h"
