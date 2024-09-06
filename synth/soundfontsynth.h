@@ -23,7 +23,7 @@
 #ifndef _soundfontsynth_h
 #define _soundfontsynth_h
 
-#include <circle/types.h>
+#include <types.h>
 
 #include <fluidsynth.h>
 
