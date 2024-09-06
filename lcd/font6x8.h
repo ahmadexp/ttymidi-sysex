@@ -23,7 +23,7 @@
 #ifndef _font6x8_h
 #define _font6x8_h
 
-#include <circle/types.h>
+#include <types.h>
 
 constexpr u8 Font6x8[97][8] =
 {
