@@ -20,8 +20,8 @@
 // mt32-pi. If not, see <http://www.gnu.org/licenses/>.
 //
 
-#include <circle/logger.h>
-#include <circle/timer.h>
+#include <logger.h>
+#include <timer.h>
 
 #include "lcd/barchars.h"
 #include "lcd/drivers/hd44780.h"
